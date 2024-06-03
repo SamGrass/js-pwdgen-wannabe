@@ -2,7 +2,7 @@
 let userName = prompt("inserisci il tuo nome");
 
 // chiedi il suo cognome
-
+let userSurname = prompt("inserisci il tuo cognome");
 
 // chiedi il suo colore preferito
 
