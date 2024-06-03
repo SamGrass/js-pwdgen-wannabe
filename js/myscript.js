@@ -5,7 +5,7 @@ let userName = prompt("inserisci il tuo nome");
 let userSurname = prompt("inserisci il tuo cognome");
 
 // chiedi il suo colore preferito
-
+let userColor = prompt("inserisci il tuo colore preferito")
 
 // somma i risultati per creare una password nomecognomecolorepreferito23
 
