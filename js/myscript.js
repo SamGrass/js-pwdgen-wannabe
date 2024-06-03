@@ -8,6 +8,6 @@ let userSurname = prompt("inserisci il tuo cognome");
 let userColor = prompt("inserisci il tuo colore preferito")
 
 // somma i risultati per creare una password nomecognomecolorepreferito23
-
+let risultato = userName + userSurname + userColor + "23"
 
 // aggiungi ad html
