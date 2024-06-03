@@ -11,3 +11,4 @@ let userColor = prompt("inserisci il tuo colore preferito")
 let risultato = userName + userSurname + userColor + "23"
 
 // aggiungi ad html
+document.getElementById("password").innerHTML = "Ecco qui la tua password: " + risultato; 
